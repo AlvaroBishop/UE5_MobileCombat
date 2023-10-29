@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Maps/Menu.umap",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Maps/TestLevel.umap",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Maps/TestLevel_BuiltData.uasset",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/BP_Player.uasset",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/System/GM_MC.uasset",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/Input/IMC_MC.uasset",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/Input/IA_Movement.uasset",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/Input/IA_MouseOrientation.uasset",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/System/PC_InGame.uasset",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Animations/ABS_PaladinLocomotion.uasset",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Animations/ABP_Paladin.uasset",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/Misc/IC_JoySticks.uasset",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/Input/IA_Lock.uasset",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/Input/IA_Roll.uasset",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/Input/IA_Attack.uasset",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/Input/IA_Block.uasset",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/Input/IA_Jump.uasset"
+			]
+		}
+	]
+}
