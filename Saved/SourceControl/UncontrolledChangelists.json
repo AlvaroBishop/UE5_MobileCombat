@@ -21,7 +21,12 @@
 				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/Input/IA_Roll.uasset",
 				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/Input/IA_Attack.uasset",
 				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/Input/IA_Block.uasset",
-				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/Input/IA_Jump.uasset"
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/Input/IA_Jump.uasset",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/BP_Trainer.uasset",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Animations/ABS_Trainer.uasset",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Animations/ABP_Trainer.uasset",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/Misc/M_TargetIcon.uasset",
+				"C:/UnrealProjects/MobileCombat/Content/IntermediateCombat/Blueprints/Interfaces/BPI_Combat.uasset"
 			]
 		}
 	]
